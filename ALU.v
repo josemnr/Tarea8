@@ -31,6 +31,9 @@ localparam OR     = 4'b0001;
 localparam NOR    = 4'b0010;
 localparam ADD 	= 4'b0011;
 localparam SUB    = 4'b0100;
+localparam SLL    = 4'b0101;
+localparam SRL    = 4'b0110;
+localparam LUI    = 4'b0111;
    
    always @ (A or B or ALUOperation)
      begin
@@ -40,11 +43,17 @@ localparam SUB    = 4'b0100;
 		  SUB: // sub
 			ALUResult=A - B;
 		  AND: //and
-		   	ALUResult = A & B;
+		   ALUResult = A & B;
 		  OR: //or
 			ALUResult = A | B;
 		  NOR: //nor
-		   	ALUResult = ~(A|B);
+		   ALUResult = ~(A|B);
+		  SLL: //shift left
+			ALUResult = B << shamt;
+		  SRL: //shift right
+		   	ALUResult = B >>> shamt;
+		  LUI: //load upper
+		  	 ALUResult = {B[15:0], 16'h00};
 			 
 		default:
 			ALUResult= 0;
