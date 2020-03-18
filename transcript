@@ -1,0 +1,196 @@
+# Compile of SignExtend.v was successful.
+# Compile of Adder32bits.v was successful.
+# Compile of ALU.v was successful.
+# Compile of ALUControl.v was successful.
+# Compile of ANDGate.v was successful.
+# Compile of Control.v was successful.
+# Compile of DataMemory.v was successful.
+# Compile of DecoderRegisterFile.v was successful.
+# Compile of Definitions.v was successful.
+# Compile of MIPS_Processor.v failed with 1 errors.
+# Compile of MIPS_Processor_TB.v was successful.
+# Compile of Multiplexer2to1.v was successful.
+# Compile of MUXRegisterFile.v was successful.
+# Compile of PC_Register.v was successful.
+# Compile of ProgramMemory.v was successful.
+# Compile of Register.v was successful.
+# Compile of RegisterFile.v was successful.
+# Compile of ShiftLeft2.v was successful.
+# 18 compiles, 1 failed with 1 error.
+vsim -gui work.MIPS_Processor_TB
+# vsim -gui work.MIPS_Processor_TB 
+# Start time: 00:22:13 on Mar 18,2020
+# Loading work.MIPS_Processor_TB
+# ** Error: (vsim-3033) C:/Users/PabloGtz/Desktop/School/10mo Semestre/Arquitectura/Alex/Arquitectura_Computacional/BasicMIPSProcessor/1/MIPS_Processor_TB.v(24): Instantiation of 'MIPS_Processor' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /MIPS_Processor_TB File: C:/Users/PabloGtz/Desktop/School/10mo Semestre/Arquitectura/Alex/Arquitectura_Computacional/BasicMIPSProcessor/1/MIPS_Processor_TB.v
+#         Searched libraries:
+#             C:/Users/PabloGtz/Desktop/School/10mo Semestre/Arquitectura/Alex/Arquitectura_Computacional/BasicMIPSProcessor/1/work
+# Error loading design
+# End time: 00:22:13 on Mar 18,2020, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
+# reading C:/intelFPGA/19.1/modelsim_ase/win32aloem/../modelsim.ini
+# Loading project MIPS_Processor
+# Compile of SignExtend.v was successful.
+# Compile of Adder32bits.v was successful.
+# Compile of ALU.v failed with 1 errors.
+# Compile of ALUControl.v was successful.
+# Compile of ANDGate.v was successful.
+# Compile of Control.v failed with 2 errors.
+# Compile of DataMemory.v was successful.
+# Compile of DecoderRegisterFile.v was successful.
+# Compile of Definitions.v was successful.
+# Compile of MIPS_Processor.v was successful.
+# Compile of MIPS_Processor_TB.v was successful.
+# Compile of Multiplexer2to1.v was successful.
+# Compile of MUXRegisterFile.v was successful.
+# Compile of PC_Register.v was successful.
+# Compile of ProgramMemory.v was successful.
+# Compile of Register.v was successful.
+# Compile of RegisterFile.v was successful.
+# Compile of ShiftLeft2.v was successful.
+# 18 compiles, 2 failed with 3 errors.
+# Compile of SignExtend.v was successful.
+# Compile of Adder32bits.v was successful.
+# Compile of ALUControl.v was successful.
+# Compile of ANDGate.v was successful.
+# Compile of DataMemory.v was successful.
+# Compile of DecoderRegisterFile.v was successful.
+# Compile of Definitions.v was successful.
+# Compile of MIPS_Processor.v was successful.
+# Compile of MIPS_Processor_TB.v was successful.
+# Compile of Multiplexer2to1.v was successful.
+# Compile of MUXRegisterFile.v was successful.
+# Compile of PC_Register.v was successful.
+# Compile of ProgramMemory.v was successful.
+# Compile of Register.v was successful.
+# Compile of RegisterFile.v was successful.
+# Compile of ShiftLeft2.v was successful.
+# Compile of Control.v was successful.
+# Compile of ALU.v was successful.
+# 18 compiles, 0 failed with no errors.
+# Compile of SignExtend.v was successful.
+# Compile of Adder32bits.v was successful.
+# Compile of ALUControl.v was successful.
+# Compile of ANDGate.v was successful.
+# Compile of DataMemory.v was successful.
+# Compile of DecoderRegisterFile.v was successful.
+# Compile of Definitions.v was successful.
+# Compile of MIPS_Processor.v was successful.
+# Compile of MIPS_Processor_TB.v was successful.
+# Compile of Multiplexer2to1.v was successful.
+# Compile of MUXRegisterFile.v was successful.
+# Compile of PC_Register.v was successful.
+# Compile of ProgramMemory.v was successful.
+# Compile of Register.v was successful.
+# Compile of RegisterFile.v was successful.
+# Compile of ShiftLeft2.v was successful.
+# Compile of Control.v failed with 2 errors.
+# Compile of ALU.v was successful.
+# 18 compiles, 1 failed with 2 errors.
+# Compile of SignExtend.v was successful.
+# Compile of Adder32bits.v was successful.
+# Compile of ALUControl.v was successful.
+# Compile of ANDGate.v was successful.
+# Compile of DataMemory.v was successful.
+# Compile of DecoderRegisterFile.v was successful.
+# Compile of Definitions.v was successful.
+# Compile of MIPS_Processor.v was successful.
+# Compile of MIPS_Processor_TB.v was successful.
+# Compile of Multiplexer2to1.v was successful.
+# Compile of MUXRegisterFile.v was successful.
+# Compile of PC_Register.v was successful.
+# Compile of ProgramMemory.v was successful.
+# Compile of Register.v was successful.
+# Compile of RegisterFile.v was successful.
+# Compile of ShiftLeft2.v was successful.
+# Compile of ALU.v was successful.
+# Compile of Control.v was successful.
+# 18 compiles, 0 failed with no errors.
+vsim -gui work.MIPS_Processor_TB
+# vsim -gui work.MIPS_Processor_TB 
+# Start time: 00:29:02 on Mar 18,2020
+# Loading work.MIPS_Processor_TB
+# Loading work.MIPS_Processor
+# Loading work.Control
+# Loading work.ProgramMemory
+# Loading work.PC_Register
+# Loading work.Adder32bits
+# Loading work.Multiplexer2to1
+# Loading work.RegisterFile
+# Loading work.DecoderRegisterFile
+# Loading work.Register
+# Loading work.MUXRegisterFile
+# Loading work.SignExtend
+# Loading work.ALUControl
+# Loading work.ALU
+# ** Warning: (vsim-3017) C:/Users/PabloGtz/Desktop/School/10mo Semestre/Arquitectura/Tarea8/github/Tarea8/MIPS_Processor_TB.v(24): [TFMPC] - Too few port connections. Expected 5, found 4.
+#    Time: 0 ps  Iteration: 0  Instance: /MIPS_Processor_TB/DUV File: C:/Users/PabloGtz/Desktop/School/10mo Semestre/Arquitectura/Tarea8/github/Tarea8/MIPS_Processor.v
+# ** Warning: (vsim-3722) C:/Users/PabloGtz/Desktop/School/10mo Semestre/Arquitectura/Tarea8/github/Tarea8/MIPS_Processor_TB.v(24): [TFMPC] - Missing connection for port 'PortIn'.
+# ** Warning: (vsim-3017) C:/Users/PabloGtz/Desktop/School/10mo Semestre/Arquitectura/Tarea8/github/Tarea8/MIPS_Processor.v(65): [TFMPC] - Too few port connections. Expected 12, found 7.
+#    Time: 0 ps  Iteration: 0  Instance: /MIPS_Processor_TB/DUV/ControlUnit File: C:/Users/PabloGtz/Desktop/School/10mo Semestre/Arquitectura/Tarea8/github/Tarea8/Control.v
+# ** Warning: (vsim-3722) C:/Users/PabloGtz/Desktop/School/10mo Semestre/Arquitectura/Tarea8/github/Tarea8/MIPS_Processor.v(65): [TFMPC] - Missing connection for port 'Jal'.
+# ** Warning: (vsim-3722) C:/Users/PabloGtz/Desktop/School/10mo Semestre/Arquitectura/Tarea8/github/Tarea8/MIPS_Processor.v(65): [TFMPC] - Missing connection for port 'Jump'.
+# ** Warning: (vsim-3722) C:/Users/PabloGtz/Desktop/School/10mo Semestre/Arquitectura/Tarea8/github/Tarea8/MIPS_Processor.v(65): [TFMPC] - Missing connection for port 'MemRead'.
+# ** Warning: (vsim-3722) C:/Users/PabloGtz/Desktop/School/10mo Semestre/Arquitectura/Tarea8/github/Tarea8/MIPS_Processor.v(65): [TFMPC] - Missing connection for port 'MemtoReg'.
+# ** Warning: (vsim-3722) C:/Users/PabloGtz/Desktop/School/10mo Semestre/Arquitectura/Tarea8/github/Tarea8/MIPS_Processor.v(65): [TFMPC] - Missing connection for port 'MemWrite'.
+# ** Warning: (vsim-3017) C:/Users/PabloGtz/Desktop/School/10mo Semestre/Arquitectura/Tarea8/github/Tarea8/MIPS_Processor.v(187): [TFMPC] - Too few port connections. Expected 6, found 5.
+#    Time: 0 ps  Iteration: 0  Instance: /MIPS_Processor_TB/DUV/Arithmetic_Logic_Unit File: C:/Users/PabloGtz/Desktop/School/10mo Semestre/Arquitectura/Tarea8/github/Tarea8/ALU.v
+# ** Warning: (vsim-3722) C:/Users/PabloGtz/Desktop/School/10mo Semestre/Arquitectura/Tarea8/github/Tarea8/MIPS_Processor.v(187): [TFMPC] - Missing connection for port 'shamt'.
+add wave -position insertpoint sim:/MIPS_Processor_TB/*
+add wave sim:/MIPS_Processor_TB/*
+run
+# ** Warning: (vsim-7) Failed to open readmem file "D:/ITESO/Arqui/Tarea8/text.dat" in read mode.
+# No such file or directory. (errno = ENOENT)    : C:/Users/PabloGtz/Desktop/School/10mo Semestre/Arquitectura/Tarea8/github/Tarea8/ProgramMemory.v(34)
+#    Time: 0 ps  Iteration: 0  Instance: /MIPS_Processor_TB/DUV/ROMProgramMemory
+run
+run
+run
+run
+run
+run
+write format wave -window .main_pane.wave.interior.cs.body.pw.wf {C:/Users/PabloGtz/Desktop/School/10mo Semestre/Arquitectura/Tarea8/github/Tarea8/wave.do}
+do sim.do
+# End time: 00:42:49 on Mar 18,2020, Elapsed time: 0:13:47
+# Errors: 0, Warnings: 11
+# vsim work.MIPS_Processor_TB 
+# Start time: 00:42:49 on Mar 18,2020
+# Loading work.MIPS_Processor_TB
+# Loading work.MIPS_Processor
+# Loading work.Control
+# Loading work.ProgramMemory
+# Loading work.PC_Register
+# Loading work.Adder32bits
+# Loading work.Multiplexer2to1
+# Loading work.RegisterFile
+# Loading work.DecoderRegisterFile
+# Loading work.Register
+# Loading work.MUXRegisterFile
+# Loading work.SignExtend
+# Loading work.ALUControl
+# Loading work.ALU
+# ** Warning: (vsim-3017) C:/Users/PabloGtz/Desktop/School/10mo Semestre/Arquitectura/Tarea8/github/Tarea8/MIPS_Processor_TB.v(24): [TFMPC] - Too few port connections. Expected 5, found 4.
+#    Time: 0 ps  Iteration: 0  Instance: /MIPS_Processor_TB/DUV File: C:/Users/PabloGtz/Desktop/School/10mo Semestre/Arquitectura/Tarea8/github/Tarea8/MIPS_Processor.v
+# ** Warning: (vsim-3722) C:/Users/PabloGtz/Desktop/School/10mo Semestre/Arquitectura/Tarea8/github/Tarea8/MIPS_Processor_TB.v(24): [TFMPC] - Missing connection for port 'PortIn'.
+# ** Warning: (vsim-3017) C:/Users/PabloGtz/Desktop/School/10mo Semestre/Arquitectura/Tarea8/github/Tarea8/MIPS_Processor.v(65): [TFMPC] - Too few port connections. Expected 12, found 7.
+#    Time: 0 ps  Iteration: 0  Instance: /MIPS_Processor_TB/DUV/ControlUnit File: C:/Users/PabloGtz/Desktop/School/10mo Semestre/Arquitectura/Tarea8/github/Tarea8/Control.v
+# ** Warning: (vsim-3722) C:/Users/PabloGtz/Desktop/School/10mo Semestre/Arquitectura/Tarea8/github/Tarea8/MIPS_Processor.v(65): [TFMPC] - Missing connection for port 'Jal'.
+# ** Warning: (vsim-3722) C:/Users/PabloGtz/Desktop/School/10mo Semestre/Arquitectura/Tarea8/github/Tarea8/MIPS_Processor.v(65): [TFMPC] - Missing connection for port 'Jump'.
+# ** Warning: (vsim-3722) C:/Users/PabloGtz/Desktop/School/10mo Semestre/Arquitectura/Tarea8/github/Tarea8/MIPS_Processor.v(65): [TFMPC] - Missing connection for port 'MemRead'.
+# ** Warning: (vsim-3722) C:/Users/PabloGtz/Desktop/School/10mo Semestre/Arquitectura/Tarea8/github/Tarea8/MIPS_Processor.v(65): [TFMPC] - Missing connection for port 'MemtoReg'.
+# ** Warning: (vsim-3722) C:/Users/PabloGtz/Desktop/School/10mo Semestre/Arquitectura/Tarea8/github/Tarea8/MIPS_Processor.v(65): [TFMPC] - Missing connection for port 'MemWrite'.
+# ** Warning: (vsim-3017) C:/Users/PabloGtz/Desktop/School/10mo Semestre/Arquitectura/Tarea8/github/Tarea8/MIPS_Processor.v(187): [TFMPC] - Too few port connections. Expected 6, found 5.
+#    Time: 0 ps  Iteration: 0  Instance: /MIPS_Processor_TB/DUV/Arithmetic_Logic_Unit File: C:/Users/PabloGtz/Desktop/School/10mo Semestre/Arquitectura/Tarea8/github/Tarea8/ALU.v
+# ** Warning: (vsim-3722) C:/Users/PabloGtz/Desktop/School/10mo Semestre/Arquitectura/Tarea8/github/Tarea8/MIPS_Processor.v(187): [TFMPC] - Missing connection for port 'shamt'.
+# ** Error: Cannot open macro file: C:/Users/PabloGtz/Desktop/School/10mo
+# Error in macro ./sim.do line 3
+# Cannot open macro file: C:/Users/PabloGtz/Desktop/School/10mo
+#     while executing
+# "do C:/Users/PabloGtz/Desktop/School/10mo Semestre/Arquitectura/Tarea8/github/Tarea8/wave.do"
+run
+# ** Warning: (vsim-7) Failed to open readmem file "D:/ITESO/Arqui/Tarea8/text.dat" in read mode.
+# No such file or directory. (errno = ENOENT)    : C:/Users/PabloGtz/Desktop/School/10mo Semestre/Arquitectura/Tarea8/github/Tarea8/ProgramMemory.v(34)
+#    Time: 0 ps  Iteration: 0  Instance: /MIPS_Processor_TB/DUV/ROMProgramMemory
+run
+run
+run
+add wave sim:/MIPS_Processor_TB/*

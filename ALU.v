@@ -25,15 +25,11 @@ module ALU
 	output reg Zero,
 	output reg [31:0]ALUResult
 );
-
-localparam AND    = 4'b0000;
-localparam OR     = 4'b0001;
-localparam NOR    = 4'b0010;
-localparam ADD 	= 4'b0011;
-localparam SUB    = 4'b0100;
-localparam SLL    = 4'b0101;
-localparam SRL    = 4'b0110;
-localparam LUI    = 4'b0111;
+localparam AND = 4'b0000;
+localparam OR  = 4'b0001;
+localparam NOR = 4'b0010;
+localparam ADD = 4'b0011;
+localparam SUB = 4'b0100;
    
    always @ (A or B or ALUOperation)
      begin
@@ -43,22 +39,15 @@ localparam LUI    = 4'b0111;
 		  SUB: // sub
 			ALUResult=A - B;
 		  AND: //and
-		   ALUResult = A & B;
+			ALUResult=A & B;
 		  OR: //or
-			ALUResult = A | B;
+			ALUResult =A|B;
 		  NOR: //nor
 		   ALUResult = ~(A|B);
-		  SLL: //shift left
-			ALUResult = B << shamt;
-		  SRL: //shift right
-		   	ALUResult = B >>> shamt;
-		  LUI: //load upper
-		  	 ALUResult = {B[15:0], 16'h00};
-			 
+		
 		default:
 			ALUResult= 0;
 		endcase // case(control)
 		Zero = (ALUResult==0) ? 1'b1 : 1'b0;
      end // always @ (A or B or control)
-endmodule 
-// alu//
+endmodule // ALU

@@ -1,0 +1,384 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/PabloGtz/Desktop/School/10mo Semestre/Arquitectura/Alex/Arquitectura_Computacional/BasicMIPSProcessor/1
+vAdder32bits
+Z0 !s110 1584512922
+!i10b 1
+!s100 ]H0^NRAm[`J07LMS2@]Pb2
+IWh6>C50ojHHCQGYGQ<i>N1
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/PabloGtz/Desktop/School/10mo Semestre/Arquitectura/Tarea8/github/Tarea8
+Z3 w1584511870
+8C:/Users/PabloGtz/Desktop/School/10mo Semestre/Arquitectura/Tarea8/github/Tarea8/Adder32bits.v
+FC:/Users/PabloGtz/Desktop/School/10mo Semestre/Arquitectura/Tarea8/github/Tarea8/Adder32bits.v
+Z4 L0 13
+Z5 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z6 !s108 1584512922.000000
+!s107 C:/Users/PabloGtz/Desktop/School/10mo Semestre/Arquitectura/Tarea8/github/Tarea8/Adder32bits.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/PabloGtz/Desktop/School/10mo Semestre/Arquitectura/Tarea8/github/Tarea8/Adder32bits.v|
+!i113 1
+Z7 o-work work
+Z8 tCvgOpt 0
+n@adder32bits
+vALU
+Z9 !s110 1584512924
+!i10b 1
+!s100 VD@4cG==<77k3fV@K9DnD0
+IAP[04bHdG9KV4g?C4[De13
+R1
+R2
+Z10 w1584434940
+8C:/Users/PabloGtz/Desktop/School/10mo Semestre/Arquitectura/Tarea8/github/Tarea8/ALU.v
+FC:/Users/PabloGtz/Desktop/School/10mo Semestre/Arquitectura/Tarea8/github/Tarea8/ALU.v
+L0 20
+R5
+r1
+!s85 0
+31
+Z11 !s108 1584512924.000000
+!s107 C:/Users/PabloGtz/Desktop/School/10mo Semestre/Arquitectura/Tarea8/github/Tarea8/ALU.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/PabloGtz/Desktop/School/10mo Semestre/Arquitectura/Tarea8/github/Tarea8/ALU.v|
+!i113 1
+R7
+R8
+n@a@l@u
+vALUControl
+R0
+!i10b 1
+!s100 ;Ufj7f>e5Q;lMhkk`G@Di0
+IllGFzDa9l_QQjB5I[KHdL2
+R1
+R2
+R3
+8C:/Users/PabloGtz/Desktop/School/10mo Semestre/Arquitectura/Tarea8/github/Tarea8/ALUControl.v
+FC:/Users/PabloGtz/Desktop/School/10mo Semestre/Arquitectura/Tarea8/github/Tarea8/ALUControl.v
+Z12 L0 15
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/PabloGtz/Desktop/School/10mo Semestre/Arquitectura/Tarea8/github/Tarea8/ALUControl.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/PabloGtz/Desktop/School/10mo Semestre/Arquitectura/Tarea8/github/Tarea8/ALUControl.v|
+!i113 1
+R7
+R8
+n@a@l@u@control
+vANDGate
+R0
+!i10b 1
+!s100 =@O=aQRi;bazk13J6U>4m3
+I[bnA8o[K=18Ylh]@Fb2f30
+R1
+R2
+R3
+8C:/Users/PabloGtz/Desktop/School/10mo Semestre/Arquitectura/Tarea8/github/Tarea8/ANDGate.v
+FC:/Users/PabloGtz/Desktop/School/10mo Semestre/Arquitectura/Tarea8/github/Tarea8/ANDGate.v
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/PabloGtz/Desktop/School/10mo Semestre/Arquitectura/Tarea8/github/Tarea8/ANDGate.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/PabloGtz/Desktop/School/10mo Semestre/Arquitectura/Tarea8/github/Tarea8/ANDGate.v|
+!i113 1
+R7
+R8
+n@a@n@d@gate
+vControl
+R9
+!i10b 1
+!s100 7C6K=5NI[ZhBCf69k_Zf[1
+IjbW]12j?[glL>lk]Q;13m2
+R1
+R2
+R10
+8C:/Users/PabloGtz/Desktop/School/10mo Semestre/Arquitectura/Tarea8/github/Tarea8/Control.v
+FC:/Users/PabloGtz/Desktop/School/10mo Semestre/Arquitectura/Tarea8/github/Tarea8/Control.v
+Z13 L0 14
+R5
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/PabloGtz/Desktop/School/10mo Semestre/Arquitectura/Tarea8/github/Tarea8/Control.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/PabloGtz/Desktop/School/10mo Semestre/Arquitectura/Tarea8/github/Tarea8/Control.v|
+!i113 1
+R7
+R8
+n@control
+vDataMemory
+Z14 !s110 1584512923
+!i10b 1
+!s100 @OPaVYHbgG?72[TazmZN01
+I1;;ACO71KNY[jNTVK6aU71
+R1
+R2
+R3
+8C:/Users/PabloGtz/Desktop/School/10mo Semestre/Arquitectura/Tarea8/github/Tarea8/DataMemory.v
+FC:/Users/PabloGtz/Desktop/School/10mo Semestre/Arquitectura/Tarea8/github/Tarea8/DataMemory.v
+R4
+R5
+r1
+!s85 0
+31
+Z15 !s108 1584512923.000000
+!s107 C:/Users/PabloGtz/Desktop/School/10mo Semestre/Arquitectura/Tarea8/github/Tarea8/DataMemory.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/PabloGtz/Desktop/School/10mo Semestre/Arquitectura/Tarea8/github/Tarea8/DataMemory.v|
+!i113 1
+R7
+R8
+n@data@memory
+vDecoderRegisterFile
+R14
+!i10b 1
+!s100 F1VSWfob<5:Z_;L=c07hJ3
+IF24GCXhSOHS_M2J:OO[IM2
+R1
+R2
+R3
+8C:/Users/PabloGtz/Desktop/School/10mo Semestre/Arquitectura/Tarea8/github/Tarea8/DecoderRegisterFile.v
+FC:/Users/PabloGtz/Desktop/School/10mo Semestre/Arquitectura/Tarea8/github/Tarea8/DecoderRegisterFile.v
+Z16 L0 12
+R5
+r1
+!s85 0
+31
+R15
+!s107 C:/Users/PabloGtz/Desktop/School/10mo Semestre/Arquitectura/Tarea8/github/Tarea8/DecoderRegisterFile.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/PabloGtz/Desktop/School/10mo Semestre/Arquitectura/Tarea8/github/Tarea8/DecoderRegisterFile.v|
+!i113 1
+R7
+R8
+n@decoder@register@file
+vMIPS_Processor
+R14
+!i10b 1
+!s100 N;oDY=[hbPdlz4i^^NW^22
+IgC5N<XR7m3Ed79khaWKM92
+R1
+R2
+R3
+8C:\Users\PabloGtz\Desktop\School\10mo Semestre\Arquitectura\Tarea8\github\Tarea8\MIPS_Processor.v
+FC:\Users\PabloGtz\Desktop\School\10mo Semestre\Arquitectura\Tarea8\github\Tarea8\MIPS_Processor.v
+L0 11
+R5
+r1
+!s85 0
+31
+R15
+!s107 C:\Users\PabloGtz\Desktop\School\10mo Semestre\Arquitectura\Tarea8\github\Tarea8\MIPS_Processor.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\PabloGtz\Desktop\School\10mo Semestre\Arquitectura\Tarea8\github\Tarea8\MIPS_Processor.v|
+!i113 1
+R7
+R8
+n@m@i@p@s_@processor
+vMIPS_Processor_TB
+R14
+!i10b 1
+!s100 93:RClE5YGZRK?HHmQNoS0
+I7:B>XZD=jeUK9:g[BcPK`2
+R1
+R2
+R3
+8C:/Users/PabloGtz/Desktop/School/10mo Semestre/Arquitectura/Tarea8/github/Tarea8/MIPS_Processor_TB.v
+FC:/Users/PabloGtz/Desktop/School/10mo Semestre/Arquitectura/Tarea8/github/Tarea8/MIPS_Processor_TB.v
+R12
+R5
+r1
+!s85 0
+31
+R15
+!s107 C:/Users/PabloGtz/Desktop/School/10mo Semestre/Arquitectura/Tarea8/github/Tarea8/MIPS_Processor_TB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/PabloGtz/Desktop/School/10mo Semestre/Arquitectura/Tarea8/github/Tarea8/MIPS_Processor_TB.v|
+!i113 1
+R7
+R8
+n@m@i@p@s_@processor_@t@b
+vMultiplexer2to1
+R14
+!i10b 1
+!s100 F48Y>?kNP3VGSJ<6PZ3Z<0
+ILSOD3;>Ck7jbV9SN@_Ca<3
+R1
+R2
+R3
+8C:/Users/PabloGtz/Desktop/School/10mo Semestre/Arquitectura/Tarea8/github/Tarea8/Multiplexer2to1.v
+FC:/Users/PabloGtz/Desktop/School/10mo Semestre/Arquitectura/Tarea8/github/Tarea8/Multiplexer2to1.v
+R4
+R5
+r1
+!s85 0
+31
+R15
+!s107 C:/Users/PabloGtz/Desktop/School/10mo Semestre/Arquitectura/Tarea8/github/Tarea8/Multiplexer2to1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/PabloGtz/Desktop/School/10mo Semestre/Arquitectura/Tarea8/github/Tarea8/Multiplexer2to1.v|
+!i113 1
+R7
+R8
+n@multiplexer2to1
+vMUXRegisterFile
+R14
+!i10b 1
+!s100 <^j`[[]Fjj[]CWW`3JSFT0
+IZ_5[COI;zCLe>U8?HNok33
+R1
+R2
+R3
+8C:/Users/PabloGtz/Desktop/School/10mo Semestre/Arquitectura/Tarea8/github/Tarea8/MUXRegisterFile.v
+FC:/Users/PabloGtz/Desktop/School/10mo Semestre/Arquitectura/Tarea8/github/Tarea8/MUXRegisterFile.v
+L0 2
+R5
+r1
+!s85 0
+31
+R15
+!s107 C:/Users/PabloGtz/Desktop/School/10mo Semestre/Arquitectura/Tarea8/github/Tarea8/MUXRegisterFile.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/PabloGtz/Desktop/School/10mo Semestre/Arquitectura/Tarea8/github/Tarea8/MUXRegisterFile.v|
+!i113 1
+R7
+R8
+n@m@u@x@register@file
+vPC_Register
+R14
+!i10b 1
+!s100 _;b?E28JEcZ?mB]466AVZ0
+I8:bU;:HBBR[XdVemg2FoT3
+R1
+R2
+R3
+8C:/Users/PabloGtz/Desktop/School/10mo Semestre/Arquitectura/Tarea8/github/Tarea8/PC_Register.v
+FC:/Users/PabloGtz/Desktop/School/10mo Semestre/Arquitectura/Tarea8/github/Tarea8/PC_Register.v
+R12
+R5
+r1
+!s85 0
+31
+R15
+!s107 C:/Users/PabloGtz/Desktop/School/10mo Semestre/Arquitectura/Tarea8/github/Tarea8/PC_Register.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/PabloGtz/Desktop/School/10mo Semestre/Arquitectura/Tarea8/github/Tarea8/PC_Register.v|
+!i113 1
+R7
+R8
+n@p@c_@register
+vProgramMemory
+R14
+!i10b 1
+!s100 fK=;gYRhHRl@M0QbAETOk1
+IGZD?@JmOj[63JLOJzCRha0
+R1
+R2
+R3
+8C:/Users/PabloGtz/Desktop/School/10mo Semestre/Arquitectura/Tarea8/github/Tarea8/ProgramMemory.v
+FC:/Users/PabloGtz/Desktop/School/10mo Semestre/Arquitectura/Tarea8/github/Tarea8/ProgramMemory.v
+R12
+R5
+r1
+!s85 0
+31
+R15
+!s107 C:/Users/PabloGtz/Desktop/School/10mo Semestre/Arquitectura/Tarea8/github/Tarea8/ProgramMemory.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/PabloGtz/Desktop/School/10mo Semestre/Arquitectura/Tarea8/github/Tarea8/ProgramMemory.v|
+!i113 1
+R7
+R8
+n@program@memory
+vRegister
+R14
+!i10b 1
+!s100 egCIUc]UZ1M2z58M]>B@S3
+I1j7;OU3OOM9W^CYjCR0@Y3
+R1
+R2
+R3
+8C:/Users/PabloGtz/Desktop/School/10mo Semestre/Arquitectura/Tarea8/github/Tarea8/Register.v
+FC:/Users/PabloGtz/Desktop/School/10mo Semestre/Arquitectura/Tarea8/github/Tarea8/Register.v
+R16
+R5
+r1
+!s85 0
+31
+R15
+!s107 C:/Users/PabloGtz/Desktop/School/10mo Semestre/Arquitectura/Tarea8/github/Tarea8/Register.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/PabloGtz/Desktop/School/10mo Semestre/Arquitectura/Tarea8/github/Tarea8/Register.v|
+!i113 1
+R7
+R8
+n@register
+vRegisterFile
+R14
+!i10b 1
+!s100 iRCaBoP=AVEo`Pldi`c<00
+IlSJ9;BF3W5:9RW4Z;R4h12
+R1
+R2
+R3
+8C:/Users/PabloGtz/Desktop/School/10mo Semestre/Arquitectura/Tarea8/github/Tarea8/RegisterFile.v
+FC:/Users/PabloGtz/Desktop/School/10mo Semestre/Arquitectura/Tarea8/github/Tarea8/RegisterFile.v
+R12
+R5
+r1
+!s85 0
+31
+R15
+!s107 C:/Users/PabloGtz/Desktop/School/10mo Semestre/Arquitectura/Tarea8/github/Tarea8/RegisterFile.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/PabloGtz/Desktop/School/10mo Semestre/Arquitectura/Tarea8/github/Tarea8/RegisterFile.v|
+!i113 1
+R7
+R8
+n@register@file
+vShiftLeft2
+R9
+!i10b 1
+!s100 Hi:hlBR22G;<919E5iIcC3
+IVQ[Hh]LVLfYhVYj4n_?iW2
+R1
+R2
+R3
+8C:/Users/PabloGtz/Desktop/School/10mo Semestre/Arquitectura/Tarea8/github/Tarea8/ShiftLeft2.v
+FC:/Users/PabloGtz/Desktop/School/10mo Semestre/Arquitectura/Tarea8/github/Tarea8/ShiftLeft2.v
+R16
+R5
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/PabloGtz/Desktop/School/10mo Semestre/Arquitectura/Tarea8/github/Tarea8/ShiftLeft2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/PabloGtz/Desktop/School/10mo Semestre/Arquitectura/Tarea8/github/Tarea8/ShiftLeft2.v|
+!i113 1
+R7
+R8
+n@shift@left2
+vSignExtend
+R0
+!i10b 1
+!s100 I1D7fe4B<UD12_E`@TC:T3
+IK2Q>:bb>g5GhbY@@:8R;X3
+R1
+R2
+R3
+8C:/Users/PabloGtz/Desktop/School/10mo Semestre/Arquitectura/Tarea8/github/Tarea8/SignExtend.v
+FC:/Users/PabloGtz/Desktop/School/10mo Semestre/Arquitectura/Tarea8/github/Tarea8/SignExtend.v
+R13
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/PabloGtz/Desktop/School/10mo Semestre/Arquitectura/Tarea8/github/Tarea8/SignExtend.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/PabloGtz/Desktop/School/10mo Semestre/Arquitectura/Tarea8/github/Tarea8/SignExtend.v|
+!i113 1
+R7
+R8
+n@sign@extend
